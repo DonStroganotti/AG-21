@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ContentProperties DeviceType="Desktop">
+  <Component type="ScriptPanel" id="ScriptPanel1" x="0" y="0" width="500"
+             height="300">
+    <Component type="ScriptFloatingTile" id="ScriptFloatingTile1" x="0" y="268"
+               width="500" height="32" parentComponent="ScriptPanel1" ContentType="PerformanceLabel"
+               bgColour="0" itemColour="4294951115" itemColour2="4294951115"
+               Data="{&#13;&#10;}"/>
+    <Component type="ScriptSlider" id="ScriptSlider1" x="0" y="0" width="151"
+               height="63" parentComponent="ScriptPanel1" text="Sample Start"
+               processorId="Constant1" parameterId="Intensity" defaultValue="0.5"
+               itemColour2="4211081216" itemColour="1716603209" textColour="4287927444"
+               showTextBox="0"/>
+  </Component>
+</ContentProperties>

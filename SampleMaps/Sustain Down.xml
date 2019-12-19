@@ -1,0 +1,2004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="Sustain Down" RRGroupAmount="5" MicPositions=";" SaveMode="2">
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down A 45 01.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="0" MonolithLength="434176"
+          SampleRate="44100"/>
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down A 45 02.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="434176" MonolithLength="516096"
+          SampleRate="44100"/>
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down A 45 03.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="950272" MonolithLength="573440"
+          SampleRate="44100"/>
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="0" HiVel="39" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down A 45 04.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="1523712"
+          MonolithLength="565248" SampleRate="44100"/>
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="0" HiVel="39" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down A 45 05.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="2088960"
+          MonolithLength="557056" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down A 57 01.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="2646016"
+          MonolithLength="417792" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down A 57 02.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="3063808"
+          MonolithLength="446464" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down A 57 03.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="3510272"
+          MonolithLength="475136" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="39" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down A 57 04.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="3985408"
+          MonolithLength="450560" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="39" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down A 57 05.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="4435968"
+          MonolithLength="528384" SampleRate="44100"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down A 69 01.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="4964352"
+          MonolithLength="278528" SampleRate="44100"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down A 69 02.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="5242880"
+          MonolithLength="278528" SampleRate="44100"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down A 69 03.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="5521408"
+          MonolithLength="274432" SampleRate="44100"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="0" HiVel="39" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down A 69 04.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="5795840"
+          MonolithLength="299008" SampleRate="44100"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="0" HiVel="39" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down A 69 05.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="6094848"
+          MonolithLength="290816" SampleRate="44100"/>
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down A# 46 01.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="6385664"
+          MonolithLength="307200" SampleRate="44100"/>
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down A# 46 02.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="6692864"
+          MonolithLength="286720" SampleRate="44100"/>
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down A# 46 03.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="6979584"
+          MonolithLength="274432" SampleRate="44100"/>
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="0" HiVel="39" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down A# 46 04.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="7254016"
+          MonolithLength="323584" SampleRate="44100"/>
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="0" HiVel="39" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down A# 46 05.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="7577600"
+          MonolithLength="270336" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down A# 58 01.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="7847936"
+          MonolithLength="438272" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down A# 58 02.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="8286208"
+          MonolithLength="483328" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down A# 58 03.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="8769536"
+          MonolithLength="405504" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="39" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down A# 58 04.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="9175040"
+          MonolithLength="364544" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="39" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down A# 58 05.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="9539584"
+          MonolithLength="425984" SampleRate="44100"/>
+  <sample Root="70" LoKey="70" HiKey="72" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down A# 70 01.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="9965568"
+          MonolithLength="278528" SampleRate="44100"/>
+  <sample Root="70" LoKey="70" HiKey="72" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down A# 70 02.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="10244096"
+          MonolithLength="241664" SampleRate="44100"/>
+  <sample Root="70" LoKey="70" HiKey="72" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down A# 70 03.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="10485760"
+          MonolithLength="270336" SampleRate="44100"/>
+  <sample Root="70" LoKey="70" HiKey="72" LoVel="0" HiVel="39" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down A# 70 04.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="10756096"
+          MonolithLength="253952" SampleRate="44100"/>
+  <sample Root="70" LoKey="70" HiKey="72" LoVel="0" HiVel="39" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down A# 70 05.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="11010048"
+          MonolithLength="249856" SampleRate="44100"/>
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down B 47 01.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="11259904"
+          MonolithLength="303104" SampleRate="44100"/>
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down B 47 02.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="11563008"
+          MonolithLength="352256" SampleRate="44100"/>
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down B 47 03.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="11915264"
+          MonolithLength="253952" SampleRate="44100"/>
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="0" HiVel="39" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down B 47 04.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="12169216"
+          MonolithLength="348160" SampleRate="44100"/>
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="0" HiVel="39" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down B 47 05.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="12517376"
+          MonolithLength="335872" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down B 59 01.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="12853248"
+          MonolithLength="311296" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down B 59 02.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="13164544"
+          MonolithLength="323584" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down B 59 03.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="13488128"
+          MonolithLength="327680" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="39" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down B 59 04.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="13815808"
+          MonolithLength="315392" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="39" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down B 59 05.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="14131200"
+          MonolithLength="278528" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down C 48 01.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="14409728"
+          MonolithLength="311296" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down C 48 02.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="14721024"
+          MonolithLength="245760" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down C 48 03.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="14966784"
+          MonolithLength="307200" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="39" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down C 48 04.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="15273984"
+          MonolithLength="372736" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="39" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down C 48 05.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="15646720"
+          MonolithLength="323584" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down C 60 01.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="15970304"
+          MonolithLength="360448" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down C 60 02.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="16330752"
+          MonolithLength="303104" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down C 60 03.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="16633856"
+          MonolithLength="319488" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="39" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down C 60 04.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="16953344"
+          MonolithLength="319488" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="39" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down C 60 05.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="17272832"
+          MonolithLength="303104" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down C# 49 01.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="17575936"
+          MonolithLength="430080" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down C# 49 02.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="18006016"
+          MonolithLength="417792" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down C# 49 03.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="18423808"
+          MonolithLength="434176" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="39" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down C# 49 04.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="18857984"
+          MonolithLength="487424" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="39" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down C# 49 05.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="19345408"
+          MonolithLength="507904" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down C# 61 01.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="19853312"
+          MonolithLength="319488" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down C# 61 02.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="20172800"
+          MonolithLength="327680" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down C# 61 03.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="20500480"
+          MonolithLength="307200" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="39" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down C# 61 04.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="20807680"
+          MonolithLength="335872" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="39" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down C# 61 05.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="21143552"
+          MonolithLength="319488" SampleRate="44100"/>
+  <sample Root="38" LoKey="36" HiKey="38" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down D 38 01.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="21463040"
+          MonolithLength="405504" SampleRate="44100"/>
+  <sample Root="38" LoKey="36" HiKey="38" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down D 38 02.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="21868544"
+          MonolithLength="471040" SampleRate="44100"/>
+  <sample Root="38" LoKey="36" HiKey="38" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down D 38 03.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="22339584"
+          MonolithLength="638976" SampleRate="44100"/>
+  <sample Root="38" LoKey="36" HiKey="38" LoVel="0" HiVel="39" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down D 38 04.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="22978560"
+          MonolithLength="593920" SampleRate="44100"/>
+  <sample Root="38" LoKey="36" HiKey="38" LoVel="0" HiVel="39" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down D 38 05.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="23572480"
+          MonolithLength="524288" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down D 50 01.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="24096768"
+          MonolithLength="425984" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down D 50 02.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="24522752"
+          MonolithLength="446464" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down D 50 03.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="24969216"
+          MonolithLength="446464" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="39" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down D 50 04.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="25415680"
+          MonolithLength="466944" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="39" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down D 50 05.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="25882624"
+          MonolithLength="450560" SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down D 62 01.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="26333184"
+          MonolithLength="434176" SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down D 62 02.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="26767360"
+          MonolithLength="458752" SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down D 62 03.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="27226112"
+          MonolithLength="438272" SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="39" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down D 62 04.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="27664384"
+          MonolithLength="438272" SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="39" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down D 62 05.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="28102656"
+          MonolithLength="421888" SampleRate="44100"/>
+  <sample Root="39" LoKey="39" HiKey="39" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down D# 39 01.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="28524544"
+          MonolithLength="372736" SampleRate="44100"/>
+  <sample Root="39" LoKey="39" HiKey="39" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down D# 39 02.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="28897280"
+          MonolithLength="348160" SampleRate="44100"/>
+  <sample Root="39" LoKey="39" HiKey="39" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down D# 39 03.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="29245440"
+          MonolithLength="245760" SampleRate="44100"/>
+  <sample Root="39" LoKey="39" HiKey="39" LoVel="0" HiVel="39" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down D# 39 04.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="29491200"
+          MonolithLength="315392" SampleRate="44100"/>
+  <sample Root="39" LoKey="39" HiKey="39" LoVel="0" HiVel="39" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down D# 39 05.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="29806592"
+          MonolithLength="282624" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down D# 51 01.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="30089216"
+          MonolithLength="364544" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down D# 51 02.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="30453760"
+          MonolithLength="389120" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down D# 51 03.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="30842880"
+          MonolithLength="401408" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="39" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down D# 51 04.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="31244288"
+          MonolithLength="356352" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="39" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down D# 51 05.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="31600640"
+          MonolithLength="356352" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down D# 63 01.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="31956992"
+          MonolithLength="401408" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down D# 63 02.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="32358400"
+          MonolithLength="352256" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down D# 63 03.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="32710656"
+          MonolithLength="372736" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="39" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down D# 63 04.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="33083392"
+          MonolithLength="389120" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="39" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down D# 63 05.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="33472512"
+          MonolithLength="372736" SampleRate="44100"/>
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down E 40 01.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="33845248"
+          MonolithLength="380928" SampleRate="44100"/>
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down E 40 02.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="34226176"
+          MonolithLength="274432" SampleRate="44100"/>
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down E 40 03.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="34500608"
+          MonolithLength="434176" SampleRate="44100"/>
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="0" HiVel="39" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down E 40 04.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="34934784"
+          MonolithLength="413696" SampleRate="44100"/>
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="0" HiVel="39" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down E 40 05.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="35348480"
+          MonolithLength="323584" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down E 52 01.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="35672064"
+          MonolithLength="421888" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down E 52 02.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="36093952"
+          MonolithLength="380928" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down E 52 03.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="36474880"
+          MonolithLength="323584" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="0" HiVel="39" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down E 52 04.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="36798464"
+          MonolithLength="376832" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="0" HiVel="39" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down E 52 05.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="37175296"
+          MonolithLength="409600" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down E 64 01.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="37584896"
+          MonolithLength="438272" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down E 64 02.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="38023168"
+          MonolithLength="397312" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down E 64 03.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="38420480"
+          MonolithLength="425984" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="39" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down E 64 04.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="38846464"
+          MonolithLength="380928" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="39" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down E 64 05.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="39227392"
+          MonolithLength="393216" SampleRate="44100"/>
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down F 41 01.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="39620608"
+          MonolithLength="323584" SampleRate="44100"/>
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down F 41 02.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="39944192"
+          MonolithLength="327680" SampleRate="44100"/>
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down F 41 03.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="40271872"
+          MonolithLength="405504" SampleRate="44100"/>
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="0" HiVel="39" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down F 41 04.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="40677376"
+          MonolithLength="282624" SampleRate="44100"/>
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="0" HiVel="39" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down F 41 05.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="40960000"
+          MonolithLength="364544" SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down F 53 01.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="41324544"
+          MonolithLength="438272" SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down F 53 02.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="41762816"
+          MonolithLength="442368" SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down F 53 03.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="42205184"
+          MonolithLength="430080" SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="0" HiVel="39" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down F 53 04.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="42635264"
+          MonolithLength="380928" SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="0" HiVel="39" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down F 53 05.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="43016192"
+          MonolithLength="454656" SampleRate="44100"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down F 65 01.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="43470848"
+          MonolithLength="368640" SampleRate="44100"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down F 65 02.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="43839488"
+          MonolithLength="352256" SampleRate="44100"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down F 65 03.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="44191744"
+          MonolithLength="323584" SampleRate="44100"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="0" HiVel="39" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down F 65 04.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="44515328"
+          MonolithLength="352256" SampleRate="44100"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="0" HiVel="39" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down F 65 05.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="44867584"
+          MonolithLength="323584" SampleRate="44100"/>
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down F# 42 01.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="45191168"
+          MonolithLength="253952" SampleRate="44100"/>
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down F# 42 02.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="45445120"
+          MonolithLength="233472" SampleRate="44100"/>
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down F# 42 03.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="45678592"
+          MonolithLength="274432" SampleRate="44100"/>
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="0" HiVel="39" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down F# 42 04.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="45953024"
+          MonolithLength="319488" SampleRate="44100"/>
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="0" HiVel="39" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down F# 42 05.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="46272512"
+          MonolithLength="286720" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down F# 54 01.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="46559232"
+          MonolithLength="327680" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down F# 54 02.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="46886912"
+          MonolithLength="278528" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down F# 54 03.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="47165440"
+          MonolithLength="274432" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="39" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down F# 54 04.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="47439872"
+          MonolithLength="274432" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="39" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down F# 54 05.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="47714304"
+          MonolithLength="282624" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down F# 66 01.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="47996928"
+          MonolithLength="344064" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down F# 66 02.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="48340992"
+          MonolithLength="278528" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down F# 66 03.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="48619520"
+          MonolithLength="274432" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="0" HiVel="39" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down F# 66 04.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="48893952"
+          MonolithLength="262144" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="0" HiVel="39" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down F# 66 05.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="49156096"
+          MonolithLength="299008" SampleRate="44100"/>
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down G 43 01.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="49455104"
+          MonolithLength="290816" SampleRate="44100"/>
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down G 43 02.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="49745920"
+          MonolithLength="233472" SampleRate="44100"/>
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down G 43 03.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="49979392"
+          MonolithLength="290816" SampleRate="44100"/>
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="0" HiVel="39" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down G 43 04.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="50270208"
+          MonolithLength="323584" SampleRate="44100"/>
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="0" HiVel="39" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down G 43 05.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="50593792"
+          MonolithLength="294912" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down G 55 01.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="50888704"
+          MonolithLength="372736" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down G 55 02.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="51261440"
+          MonolithLength="417792" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down G 55 03.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="51679232"
+          MonolithLength="397312" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="39" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down G 55 04.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="52076544"
+          MonolithLength="397312" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="39" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down G 55 05.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="52473856"
+          MonolithLength="397312" SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down G 67 01.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="52871168"
+          MonolithLength="294912" SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down G 67 02.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="53166080"
+          MonolithLength="258048" SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down G 67 03.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="53424128"
+          MonolithLength="266240" SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="0" HiVel="39" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down G 67 04.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="53690368"
+          MonolithLength="266240" SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="0" HiVel="39" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down G 67 05.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="53956608"
+          MonolithLength="286720" SampleRate="44100"/>
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down G# 44 01.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="54243328"
+          MonolithLength="249856" SampleRate="44100"/>
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down G# 44 02.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="54493184"
+          MonolithLength="221184" SampleRate="44100"/>
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down G# 44 03.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="54714368"
+          MonolithLength="180224" SampleRate="44100"/>
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="0" HiVel="39" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down G# 44 04.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="54894592"
+          MonolithLength="217088" SampleRate="44100"/>
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="0" HiVel="39" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down G# 44 05.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="55111680"
+          MonolithLength="196608" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down G# 56 01.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="55308288"
+          MonolithLength="434176" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down G# 56 02.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="55742464"
+          MonolithLength="446464" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down G# 56 03.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="56188928"
+          MonolithLength="479232" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="39" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down G# 56 04.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="56668160"
+          MonolithLength="454656" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="39" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down G# 56 05.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="57122816"
+          MonolithLength="499712" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down G# 68 01.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="57622528"
+          MonolithLength="270336" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down G# 68 02.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="57892864"
+          MonolithLength="233472" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down G# 68 03.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="58126336"
+          MonolithLength="262144" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="0" HiVel="39" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down G# 68 04.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="58388480"
+          MonolithLength="262144" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="0" HiVel="39" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Soft Sustain Down G# 68 05.wav"
+          Duplicate="1" SampleStartMod="1500" MonolithOffset="58650624"
+          MonolithLength="233472" SampleRate="44100"/>
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="40" HiVel="64" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down A 45 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="58884096"
+          MonolithLength="434176" SampleRate="44100"/>
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="40" HiVel="64" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down A 45 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="59318272"
+          MonolithLength="516096" SampleRate="44100"/>
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="40" HiVel="64" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down A 45 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="59834368"
+          MonolithLength="573440" SampleRate="44100"/>
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="40" HiVel="64" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down A 45 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="60407808"
+          MonolithLength="565248" SampleRate="44100"/>
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="40" HiVel="64" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down A 45 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="60973056"
+          MonolithLength="557056" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="40" HiVel="64" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down A 57 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="61530112"
+          MonolithLength="417792" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="40" HiVel="64" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down A 57 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="61947904"
+          MonolithLength="446464" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="40" HiVel="64" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down A 57 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="62394368"
+          MonolithLength="475136" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="40" HiVel="64" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down A 57 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="62869504"
+          MonolithLength="450560" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="40" HiVel="64" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down A 57 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="63320064"
+          MonolithLength="528384" SampleRate="44100"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="40" HiVel="64" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down A 69 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="63848448"
+          MonolithLength="278528" SampleRate="44100"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="40" HiVel="64" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down A 69 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="64126976"
+          MonolithLength="278528" SampleRate="44100"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="40" HiVel="64" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down A 69 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="64405504"
+          MonolithLength="274432" SampleRate="44100"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="40" HiVel="64" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down A 69 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="64679936"
+          MonolithLength="299008" SampleRate="44100"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="40" HiVel="64" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down A 69 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="64978944"
+          MonolithLength="290816" SampleRate="44100"/>
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="40" HiVel="64" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down A# 46 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="65269760"
+          MonolithLength="307200" SampleRate="44100"/>
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="40" HiVel="64" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down A# 46 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="65576960"
+          MonolithLength="286720" SampleRate="44100"/>
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="40" HiVel="64" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down A# 46 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="65863680"
+          MonolithLength="274432" SampleRate="44100"/>
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="40" HiVel="64" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down A# 46 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="66138112"
+          MonolithLength="323584" SampleRate="44100"/>
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="40" HiVel="64" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down A# 46 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="66461696"
+          MonolithLength="270336" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="40" HiVel="64" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down A# 58 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="66732032"
+          MonolithLength="438272" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="40" HiVel="64" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down A# 58 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="67170304"
+          MonolithLength="483328" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="40" HiVel="64" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down A# 58 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="67653632"
+          MonolithLength="405504" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="40" HiVel="64" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down A# 58 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="68059136"
+          MonolithLength="364544" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="40" HiVel="64" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down A# 58 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="68423680"
+          MonolithLength="425984" SampleRate="44100"/>
+  <sample Root="70" LoKey="70" HiKey="72" LoVel="40" HiVel="64" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down A# 70 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="68849664"
+          MonolithLength="278528" SampleRate="44100"/>
+  <sample Root="70" LoKey="70" HiKey="72" LoVel="40" HiVel="64" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down A# 70 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="69128192"
+          MonolithLength="241664" SampleRate="44100"/>
+  <sample Root="70" LoKey="70" HiKey="72" LoVel="40" HiVel="64" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down A# 70 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="69369856"
+          MonolithLength="270336" SampleRate="44100"/>
+  <sample Root="70" LoKey="70" HiKey="72" LoVel="40" HiVel="64" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down A# 70 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="69640192"
+          MonolithLength="253952" SampleRate="44100"/>
+  <sample Root="70" LoKey="70" HiKey="72" LoVel="40" HiVel="64" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down A# 70 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="69894144"
+          MonolithLength="249856" SampleRate="44100"/>
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="40" HiVel="64" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down B 47 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="70144000"
+          MonolithLength="303104" SampleRate="44100"/>
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="40" HiVel="64" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down B 47 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="70447104"
+          MonolithLength="352256" SampleRate="44100"/>
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="40" HiVel="64" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down B 47 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="70799360"
+          MonolithLength="253952" SampleRate="44100"/>
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="40" HiVel="64" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down B 47 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="71053312"
+          MonolithLength="348160" SampleRate="44100"/>
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="40" HiVel="64" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down B 47 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="71401472"
+          MonolithLength="335872" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="40" HiVel="64" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down B 59 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="71737344"
+          MonolithLength="311296" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="40" HiVel="64" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down B 59 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="72048640"
+          MonolithLength="323584" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="40" HiVel="64" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down B 59 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="72372224"
+          MonolithLength="327680" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="40" HiVel="64" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down B 59 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="72699904"
+          MonolithLength="315392" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="40" HiVel="64" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down B 59 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="73015296"
+          MonolithLength="278528" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="40" HiVel="64" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down C 48 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="73293824"
+          MonolithLength="311296" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="40" HiVel="64" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down C 48 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="73605120"
+          MonolithLength="245760" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="40" HiVel="64" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down C 48 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="73850880"
+          MonolithLength="307200" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="40" HiVel="64" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down C 48 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="74158080"
+          MonolithLength="372736" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="40" HiVel="64" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down C 48 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="74530816"
+          MonolithLength="323584" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="40" HiVel="64" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down C 60 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="74854400"
+          MonolithLength="360448" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="40" HiVel="64" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down C 60 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="75214848"
+          MonolithLength="303104" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="40" HiVel="64" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down C 60 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="75517952"
+          MonolithLength="319488" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="40" HiVel="64" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down C 60 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="75837440"
+          MonolithLength="319488" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="40" HiVel="64" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down C 60 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="76156928"
+          MonolithLength="303104" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="40" HiVel="64" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down C# 49 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="76460032"
+          MonolithLength="430080" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="40" HiVel="64" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down C# 49 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="76890112"
+          MonolithLength="417792" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="40" HiVel="64" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down C# 49 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="77307904"
+          MonolithLength="434176" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="40" HiVel="64" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down C# 49 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="77742080"
+          MonolithLength="487424" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="40" HiVel="64" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down C# 49 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="78229504"
+          MonolithLength="507904" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="40" HiVel="64" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down C# 61 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="78737408"
+          MonolithLength="319488" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="40" HiVel="64" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down C# 61 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="79056896"
+          MonolithLength="327680" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="40" HiVel="64" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down C# 61 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="79384576"
+          MonolithLength="307200" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="40" HiVel="64" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down C# 61 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="79691776"
+          MonolithLength="335872" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="40" HiVel="64" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down C# 61 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="80027648"
+          MonolithLength="319488" SampleRate="44100"/>
+  <sample Root="38" LoKey="36" HiKey="38" LoVel="40" HiVel="64" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down D 38 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="80347136"
+          MonolithLength="405504" SampleRate="44100"/>
+  <sample Root="38" LoKey="36" HiKey="38" LoVel="40" HiVel="64" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down D 38 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="80752640"
+          MonolithLength="471040" SampleRate="44100"/>
+  <sample Root="38" LoKey="36" HiKey="38" LoVel="40" HiVel="64" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down D 38 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="81223680"
+          MonolithLength="638976" SampleRate="44100"/>
+  <sample Root="38" LoKey="36" HiKey="38" LoVel="40" HiVel="64" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down D 38 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="81862656"
+          MonolithLength="593920" SampleRate="44100"/>
+  <sample Root="38" LoKey="36" HiKey="38" LoVel="40" HiVel="64" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down D 38 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="82456576"
+          MonolithLength="524288" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="40" HiVel="64" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down D 50 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="82980864"
+          MonolithLength="425984" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="40" HiVel="64" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down D 50 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="83406848"
+          MonolithLength="446464" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="40" HiVel="64" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down D 50 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="83853312"
+          MonolithLength="446464" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="40" HiVel="64" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down D 50 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="84299776"
+          MonolithLength="466944" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="40" HiVel="64" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down D 50 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="84766720"
+          MonolithLength="450560" SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="40" HiVel="64" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down D 62 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="85217280"
+          MonolithLength="434176" SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="40" HiVel="64" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down D 62 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="85651456"
+          MonolithLength="458752" SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="40" HiVel="64" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down D 62 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="86110208"
+          MonolithLength="438272" SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="40" HiVel="64" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down D 62 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="86548480"
+          MonolithLength="438272" SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="40" HiVel="64" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down D 62 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="86986752"
+          MonolithLength="421888" SampleRate="44100"/>
+  <sample Root="39" LoKey="39" HiKey="39" LoVel="40" HiVel="64" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down D# 39 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="87408640"
+          MonolithLength="372736" SampleRate="44100"/>
+  <sample Root="39" LoKey="39" HiKey="39" LoVel="40" HiVel="64" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down D# 39 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="87781376"
+          MonolithLength="348160" SampleRate="44100"/>
+  <sample Root="39" LoKey="39" HiKey="39" LoVel="40" HiVel="64" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down D# 39 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="88129536"
+          MonolithLength="245760" SampleRate="44100"/>
+  <sample Root="39" LoKey="39" HiKey="39" LoVel="40" HiVel="64" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down D# 39 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="88375296"
+          MonolithLength="315392" SampleRate="44100"/>
+  <sample Root="39" LoKey="39" HiKey="39" LoVel="40" HiVel="64" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down D# 39 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="88690688"
+          MonolithLength="282624" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="40" HiVel="64" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down D# 51 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="88973312"
+          MonolithLength="364544" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="40" HiVel="64" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down D# 51 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="89337856"
+          MonolithLength="389120" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="40" HiVel="64" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down D# 51 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="89726976"
+          MonolithLength="401408" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="40" HiVel="64" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down D# 51 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="90128384"
+          MonolithLength="356352" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="40" HiVel="64" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down D# 51 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="90484736"
+          MonolithLength="356352" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="40" HiVel="64" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down D# 63 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="90841088"
+          MonolithLength="401408" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="40" HiVel="64" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down D# 63 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="91242496"
+          MonolithLength="352256" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="40" HiVel="64" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down D# 63 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="91594752"
+          MonolithLength="372736" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="40" HiVel="64" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down D# 63 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="91967488"
+          MonolithLength="389120" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="40" HiVel="64" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down D# 63 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="92356608"
+          MonolithLength="372736" SampleRate="44100"/>
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="40" HiVel="64" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down E 40 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="92729344"
+          MonolithLength="380928" SampleRate="44100"/>
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="40" HiVel="64" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down E 40 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="93110272"
+          MonolithLength="274432" SampleRate="44100"/>
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="40" HiVel="64" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down E 40 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="93384704"
+          MonolithLength="434176" SampleRate="44100"/>
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="40" HiVel="64" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down E 40 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="93818880"
+          MonolithLength="413696" SampleRate="44100"/>
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="40" HiVel="64" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down E 40 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="94232576"
+          MonolithLength="323584" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="40" HiVel="64" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down E 52 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="94556160"
+          MonolithLength="421888" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="40" HiVel="64" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down E 52 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="94978048"
+          MonolithLength="380928" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="40" HiVel="64" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down E 52 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="95358976"
+          MonolithLength="323584" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="40" HiVel="64" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down E 52 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="95682560"
+          MonolithLength="376832" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="40" HiVel="64" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down E 52 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="96059392"
+          MonolithLength="409600" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="40" HiVel="64" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down E 64 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="96468992"
+          MonolithLength="438272" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="40" HiVel="64" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down E 64 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="96907264"
+          MonolithLength="397312" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="40" HiVel="64" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down E 64 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="97304576"
+          MonolithLength="425984" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="40" HiVel="64" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down E 64 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="97730560"
+          MonolithLength="380928" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="40" HiVel="64" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down E 64 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="98111488"
+          MonolithLength="393216" SampleRate="44100"/>
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="40" HiVel="64" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down F 41 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="98504704"
+          MonolithLength="323584" SampleRate="44100"/>
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="40" HiVel="64" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down F 41 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="98828288"
+          MonolithLength="327680" SampleRate="44100"/>
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="40" HiVel="64" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down F 41 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="99155968"
+          MonolithLength="405504" SampleRate="44100"/>
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="40" HiVel="64" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down F 41 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="99561472"
+          MonolithLength="282624" SampleRate="44100"/>
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="40" HiVel="64" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down F 41 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="99844096"
+          MonolithLength="364544" SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="40" HiVel="64" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down F 53 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="100208640"
+          MonolithLength="438272" SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="40" HiVel="64" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down F 53 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="100646912"
+          MonolithLength="442368" SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="40" HiVel="64" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down F 53 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="101089280"
+          MonolithLength="430080" SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="40" HiVel="64" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down F 53 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="101519360"
+          MonolithLength="380928" SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="40" HiVel="64" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down F 53 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="101900288"
+          MonolithLength="454656" SampleRate="44100"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="40" HiVel="64" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down F 65 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="102354944"
+          MonolithLength="368640" SampleRate="44100"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="40" HiVel="64" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down F 65 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="102723584"
+          MonolithLength="352256" SampleRate="44100"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="40" HiVel="64" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down F 65 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="103075840"
+          MonolithLength="323584" SampleRate="44100"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="40" HiVel="64" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down F 65 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="103399424"
+          MonolithLength="352256" SampleRate="44100"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="40" HiVel="64" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down F 65 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="103751680"
+          MonolithLength="323584" SampleRate="44100"/>
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="40" HiVel="64" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down F# 42 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="104075264"
+          MonolithLength="253952" SampleRate="44100"/>
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="40" HiVel="64" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down F# 42 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="104329216"
+          MonolithLength="233472" SampleRate="44100"/>
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="40" HiVel="64" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down F# 42 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="104562688"
+          MonolithLength="274432" SampleRate="44100"/>
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="40" HiVel="64" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down F# 42 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="104837120"
+          MonolithLength="319488" SampleRate="44100"/>
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="40" HiVel="64" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down F# 42 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="105156608"
+          MonolithLength="286720" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="40" HiVel="64" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down F# 54 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="105443328"
+          MonolithLength="327680" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="40" HiVel="64" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down F# 54 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="105771008"
+          MonolithLength="278528" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="40" HiVel="64" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down F# 54 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="106049536"
+          MonolithLength="274432" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="40" HiVel="64" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down F# 54 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="106323968"
+          MonolithLength="274432" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="40" HiVel="64" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down F# 54 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="106598400"
+          MonolithLength="282624" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="40" HiVel="64" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down F# 66 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="106881024"
+          MonolithLength="344064" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="40" HiVel="64" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down F# 66 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="107225088"
+          MonolithLength="278528" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="40" HiVel="64" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down F# 66 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="107503616"
+          MonolithLength="274432" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="40" HiVel="64" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down F# 66 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="107778048"
+          MonolithLength="262144" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="40" HiVel="64" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down F# 66 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="108040192"
+          MonolithLength="299008" SampleRate="44100"/>
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="40" HiVel="64" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down G 43 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="108339200"
+          MonolithLength="290816" SampleRate="44100"/>
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="40" HiVel="64" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down G 43 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="108630016"
+          MonolithLength="233472" SampleRate="44100"/>
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="40" HiVel="64" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down G 43 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="108863488"
+          MonolithLength="290816" SampleRate="44100"/>
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="40" HiVel="64" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down G 43 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="109154304"
+          MonolithLength="323584" SampleRate="44100"/>
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="40" HiVel="64" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down G 43 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="109477888"
+          MonolithLength="294912" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="40" HiVel="64" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down G 55 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="109772800"
+          MonolithLength="372736" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="40" HiVel="64" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down G 55 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="110145536"
+          MonolithLength="417792" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="40" HiVel="64" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down G 55 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="110563328"
+          MonolithLength="397312" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="40" HiVel="64" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down G 55 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="110960640"
+          MonolithLength="397312" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="40" HiVel="64" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down G 55 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="111357952"
+          MonolithLength="397312" SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="40" HiVel="64" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down G 67 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="111755264"
+          MonolithLength="294912" SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="40" HiVel="64" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down G 67 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="112050176"
+          MonolithLength="258048" SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="40" HiVel="64" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down G 67 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="112308224"
+          MonolithLength="266240" SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="40" HiVel="64" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down G 67 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="112574464"
+          MonolithLength="266240" SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="40" HiVel="64" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down G 67 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="112840704"
+          MonolithLength="286720" SampleRate="44100"/>
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="40" HiVel="64" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down G# 44 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="113127424"
+          MonolithLength="249856" SampleRate="44100"/>
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="40" HiVel="64" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down G# 44 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="113377280"
+          MonolithLength="221184" SampleRate="44100"/>
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="40" HiVel="64" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down G# 44 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="113598464"
+          MonolithLength="180224" SampleRate="44100"/>
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="40" HiVel="64" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down G# 44 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="113778688"
+          MonolithLength="217088" SampleRate="44100"/>
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="40" HiVel="64" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down G# 44 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="113995776"
+          MonolithLength="196608" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="40" HiVel="64" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down G# 56 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="114192384"
+          MonolithLength="434176" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="40" HiVel="64" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down G# 56 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="114626560"
+          MonolithLength="446464" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="40" HiVel="64" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down G# 56 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="115073024"
+          MonolithLength="479232" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="40" HiVel="64" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down G# 56 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="115552256"
+          MonolithLength="454656" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="40" HiVel="64" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down G# 56 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="116006912"
+          MonolithLength="499712" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="40" HiVel="64" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down G# 68 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="116506624"
+          MonolithLength="270336" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="40" HiVel="64" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down G# 68 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="116776960"
+          MonolithLength="233472" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="40" HiVel="64" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down G# 68 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="117010432"
+          MonolithLength="262144" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="40" HiVel="64" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down G# 68 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="117272576"
+          MonolithLength="262144" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="40" HiVel="64" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Soft\Down\Plus\Soft Sustain Down G# 68 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-4" MonolithOffset="117534720"
+          MonolithLength="233472" SampleRate="44100"/>
+  <sample Root="45" LoKey="45" HiKey="46" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down A 45 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="117768192"
+          MonolithLength="499712" SampleRate="44100"/>
+  <sample Root="45" LoKey="45" HiKey="46" LoVel="91" HiVel="127" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down A 45 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="118267904"
+          MonolithLength="491520" SampleRate="44100"/>
+  <sample Root="45" LoKey="45" HiKey="46" LoVel="91" HiVel="127" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down A 45 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="118759424"
+          MonolithLength="442368" SampleRate="44100"/>
+  <sample Root="45" LoKey="45" HiKey="46" LoVel="91" HiVel="127" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down A 45 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="119201792"
+          MonolithLength="454656" SampleRate="44100"/>
+  <sample Root="45" LoKey="45" HiKey="46" LoVel="91" HiVel="127" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down A 45 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="119656448"
+          MonolithLength="532480" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="58" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down A 57 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="120188928"
+          MonolithLength="479232" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="58" LoVel="91" HiVel="127" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down A 57 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="120668160"
+          MonolithLength="421888" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="58" LoVel="91" HiVel="127" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down A 57 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="121090048"
+          MonolithLength="421888" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="58" LoVel="91" HiVel="127" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down A 57 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="121511936"
+          MonolithLength="417792" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="58" LoVel="91" HiVel="127" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down A 57 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="121929728"
+          MonolithLength="401408" SampleRate="44100"/>
+  <sample Root="47" LoKey="47" HiKey="48" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down B 47 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="122331136"
+          MonolithLength="499712" SampleRate="44100"/>
+  <sample Root="47" LoKey="47" HiKey="48" LoVel="91" HiVel="127" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down B 47 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="122830848"
+          MonolithLength="544768" SampleRate="44100"/>
+  <sample Root="47" LoKey="47" HiKey="48" LoVel="91" HiVel="127" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down B 47 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="123375616"
+          MonolithLength="446464" SampleRate="44100"/>
+  <sample Root="47" LoKey="47" HiKey="48" LoVel="91" HiVel="127" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down B 47 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="123822080"
+          MonolithLength="520192" SampleRate="44100"/>
+  <sample Root="47" LoKey="47" HiKey="48" LoVel="91" HiVel="127" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down B 47 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="124342272"
+          MonolithLength="491520" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="60" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down B 59 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-11" MonolithOffset="124833792"
+          MonolithLength="368640" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="60" LoVel="91" HiVel="127" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down B 59 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-11" MonolithOffset="125202432"
+          MonolithLength="417792" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="60" LoVel="91" HiVel="127" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down B 59 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-11" MonolithOffset="125620224"
+          MonolithLength="430080" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="60" LoVel="91" HiVel="127" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down B 59 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-11" MonolithOffset="126050304"
+          MonolithLength="446464" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="60" LoVel="91" HiVel="127" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down B 59 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-11" MonolithOffset="126496768"
+          MonolithLength="483328" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down C# 49 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="126980096"
+          MonolithLength="495616" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="91" HiVel="127" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down C# 49 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="127475712"
+          MonolithLength="471040" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="91" HiVel="127" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down C# 49 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="127946752"
+          MonolithLength="520192" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="91" HiVel="127" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down C# 49 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="128466944"
+          MonolithLength="487424" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="91" HiVel="127" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down C# 49 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="128954368"
+          MonolithLength="454656" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="62" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down C# 61 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-11" MonolithOffset="129409024"
+          MonolithLength="434176" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="62" LoVel="91" HiVel="127" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down C# 61 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-11" MonolithOffset="129843200"
+          MonolithLength="430080" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="62" LoVel="91" HiVel="127" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down C# 61 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-11" MonolithOffset="130273280"
+          MonolithLength="442368" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="62" LoVel="91" HiVel="127" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down C# 61 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-11" MonolithOffset="130715648"
+          MonolithLength="442368" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="62" LoVel="91" HiVel="127" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down C# 61 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-11" MonolithOffset="131158016"
+          MonolithLength="409600" SampleRate="44100"/>
+  <sample Root="38" LoKey="36" HiKey="39" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down D 38 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="131567616"
+          MonolithLength="872448" SampleRate="44100"/>
+  <sample Root="38" LoKey="36" HiKey="39" LoVel="91" HiVel="127" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down D 38 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="132440064"
+          MonolithLength="794624" SampleRate="44100"/>
+  <sample Root="38" LoKey="36" HiKey="39" LoVel="91" HiVel="127" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down D 38 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="133234688"
+          MonolithLength="786432" SampleRate="44100"/>
+  <sample Root="38" LoKey="36" HiKey="39" LoVel="91" HiVel="127" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down D 38 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="134021120"
+          MonolithLength="864256" SampleRate="44100"/>
+  <sample Root="38" LoKey="36" HiKey="39" LoVel="91" HiVel="127" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down D 38 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="134885376"
+          MonolithLength="815104" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="51" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down D 50 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="135700480"
+          MonolithLength="647168" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="51" LoVel="91" HiVel="127" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down D 50 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="136347648"
+          MonolithLength="688128" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="51" LoVel="91" HiVel="127" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down D 50 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="137035776"
+          MonolithLength="634880" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="51" LoVel="91" HiVel="127" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down D 50 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="137670656"
+          MonolithLength="565248" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="51" LoVel="91" HiVel="127" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down D 50 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="138235904"
+          MonolithLength="630784" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down D# 63 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-11" MonolithOffset="138866688"
+          MonolithLength="540672" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="91" HiVel="127" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down D# 63 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-11" MonolithOffset="139407360"
+          MonolithLength="540672" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="91" HiVel="127" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down D# 63 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-11" MonolithOffset="139948032"
+          MonolithLength="507904" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="91" HiVel="127" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down D# 63 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-11" MonolithOffset="140455936"
+          MonolithLength="512000" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="91" HiVel="127" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down D# 63 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-11" MonolithOffset="140967936"
+          MonolithLength="520192" SampleRate="44100"/>
+  <sample Root="40" LoKey="40" HiKey="41" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down E 40 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="141488128"
+          MonolithLength="532480" SampleRate="44100"/>
+  <sample Root="40" LoKey="40" HiKey="41" LoVel="91" HiVel="127" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down E 40 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="142020608"
+          MonolithLength="589824" SampleRate="44100"/>
+  <sample Root="40" LoKey="40" HiKey="41" LoVel="91" HiVel="127" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down E 40 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="142610432"
+          MonolithLength="536576" SampleRate="44100"/>
+  <sample Root="40" LoKey="40" HiKey="41" LoVel="91" HiVel="127" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down E 40 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="143147008"
+          MonolithLength="548864" SampleRate="44100"/>
+  <sample Root="40" LoKey="40" HiKey="41" LoVel="91" HiVel="127" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down E 40 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="143695872"
+          MonolithLength="516096" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down E 52 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="144211968"
+          MonolithLength="491520" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="91" HiVel="127" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down E 52 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="144703488"
+          MonolithLength="446464" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="91" HiVel="127" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down E 52 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="145149952"
+          MonolithLength="503808" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="91" HiVel="127" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down E 52 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="145653760"
+          MonolithLength="466944" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="91" HiVel="127" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down E 52 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="146120704"
+          MonolithLength="495616" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="65" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down E 64 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-11" MonolithOffset="146616320"
+          MonolithLength="446464" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="65" LoVel="91" HiVel="127" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down E 64 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-11" MonolithOffset="147062784"
+          MonolithLength="397312" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="65" LoVel="91" HiVel="127" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down E 64 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-11" MonolithOffset="147460096"
+          MonolithLength="421888" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="65" LoVel="91" HiVel="127" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down E 64 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-11" MonolithOffset="147881984"
+          MonolithLength="405504" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="65" LoVel="91" HiVel="127" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down E 64 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-11" MonolithOffset="148287488"
+          MonolithLength="405504" SampleRate="44100"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down F# 42 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="148692992"
+          MonolithLength="507904" SampleRate="44100"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="91" HiVel="127" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down F# 42 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="149200896"
+          MonolithLength="487424" SampleRate="44100"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="91" HiVel="127" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down F# 42 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="149688320"
+          MonolithLength="466944" SampleRate="44100"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="91" HiVel="127" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down F# 42 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="150155264"
+          MonolithLength="421888" SampleRate="44100"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="91" HiVel="127" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down F# 42 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="150577152"
+          MonolithLength="442368" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down F# 54 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="151019520"
+          MonolithLength="344064" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="91" HiVel="127" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down F# 54 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="151363584"
+          MonolithLength="331776" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="91" HiVel="127" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down F# 54 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="151695360"
+          MonolithLength="323584" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="91" HiVel="127" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down F# 54 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="152018944"
+          MonolithLength="323584" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="91" HiVel="127" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down F# 54 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="152342528"
+          MonolithLength="356352" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="67" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down F# 66 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-11" MonolithOffset="152698880"
+          MonolithLength="364544" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="67" LoVel="91" HiVel="127" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down F# 66 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-11" MonolithOffset="153063424"
+          MonolithLength="389120" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="67" LoVel="91" HiVel="127" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down F# 66 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-11" MonolithOffset="153452544"
+          MonolithLength="339968" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="67" LoVel="91" HiVel="127" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down F# 66 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-11" MonolithOffset="153792512"
+          MonolithLength="339968" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="67" LoVel="91" HiVel="127" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down F# 66 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-11" MonolithOffset="154132480"
+          MonolithLength="352256" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="56" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down G 55 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="154484736"
+          MonolithLength="536576" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="56" LoVel="91" HiVel="127" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down G 55 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="155021312"
+          MonolithLength="450560" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="56" LoVel="91" HiVel="127" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down G 55 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="155471872"
+          MonolithLength="552960" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="56" LoVel="91" HiVel="127" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down G 55 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="156024832"
+          MonolithLength="528384" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="56" LoVel="91" HiVel="127" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down G 55 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-6" MonolithOffset="156553216"
+          MonolithLength="503808" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="72" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down G# 68 01.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-11" MonolithOffset="157057024"
+          MonolithLength="311296" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="72" LoVel="91" HiVel="127" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down G# 68 02.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-11" MonolithOffset="157368320"
+          MonolithLength="274432" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="72" LoVel="91" HiVel="127" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down G# 68 03.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-11" MonolithOffset="157642752"
+          MonolithLength="258048" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="72" LoVel="91" HiVel="127" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down G# 68 04.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-11" MonolithOffset="157900800"
+          MonolithLength="270336" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="72" LoVel="91" HiVel="127" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Medium Sustain Down G# 68 05.wav"
+          Duplicate="1" SampleStartMod="1500" Volume="-11" MonolithOffset="158171136"
+          MonolithLength="241664" SampleRate="44100"/>
+  <sample Root="45" LoKey="45" HiKey="46" LoVel="65" HiVel="90" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down A 45 01.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="158412800"
+          MonolithLength="499712" SampleRate="44100"/>
+  <sample Root="45" LoKey="45" HiKey="46" LoVel="65" HiVel="90" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down A 45 02.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="158912512"
+          MonolithLength="491520" SampleRate="44100"/>
+  <sample Root="45" LoKey="45" HiKey="46" LoVel="65" HiVel="90" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down A 45 03.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="159404032"
+          MonolithLength="442368" SampleRate="44100"/>
+  <sample Root="45" LoKey="45" HiKey="46" LoVel="65" HiVel="90" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down A 45 04.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="159846400"
+          MonolithLength="454656" SampleRate="44100"/>
+  <sample Root="45" LoKey="45" HiKey="46" LoVel="65" HiVel="90" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down A 45 05.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="160301056"
+          MonolithLength="532480" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="58" LoVel="65" HiVel="90" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down A 57 01.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="160833536"
+          MonolithLength="479232" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="58" LoVel="65" HiVel="90" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down A 57 02.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="161312768"
+          MonolithLength="421888" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="58" LoVel="65" HiVel="90" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down A 57 03.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="161734656"
+          MonolithLength="421888" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="58" LoVel="65" HiVel="90" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down A 57 04.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="162156544"
+          MonolithLength="417792" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="58" LoVel="65" HiVel="90" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down A 57 05.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="162574336"
+          MonolithLength="401408" SampleRate="44100"/>
+  <sample Root="47" LoKey="47" HiKey="48" LoVel="65" HiVel="90" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down B 47 01.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="162975744"
+          MonolithLength="499712" SampleRate="44100"/>
+  <sample Root="47" LoKey="47" HiKey="48" LoVel="65" HiVel="90" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down B 47 02.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="163475456"
+          MonolithLength="544768" SampleRate="44100"/>
+  <sample Root="47" LoKey="47" HiKey="48" LoVel="65" HiVel="90" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down B 47 03.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="164020224"
+          MonolithLength="446464" SampleRate="44100"/>
+  <sample Root="47" LoKey="47" HiKey="48" LoVel="65" HiVel="90" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down B 47 04.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="164466688"
+          MonolithLength="520192" SampleRate="44100"/>
+  <sample Root="47" LoKey="47" HiKey="48" LoVel="65" HiVel="90" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down B 47 05.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="164986880"
+          MonolithLength="491520" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="60" LoVel="65" HiVel="90" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down B 59 01.wav"
+          Duplicate="1" Volume="-9" SampleStartMod="1500" MonolithOffset="165478400"
+          MonolithLength="368640" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="60" LoVel="65" HiVel="90" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down B 59 02.wav"
+          Duplicate="1" Volume="-9" SampleStartMod="1500" MonolithOffset="165847040"
+          MonolithLength="417792" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="60" LoVel="65" HiVel="90" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down B 59 03.wav"
+          Duplicate="1" Volume="-9" SampleStartMod="1500" MonolithOffset="166264832"
+          MonolithLength="430080" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="60" LoVel="65" HiVel="90" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down B 59 04.wav"
+          Duplicate="1" Volume="-9" SampleStartMod="1500" MonolithOffset="166694912"
+          MonolithLength="446464" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="60" LoVel="65" HiVel="90" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down B 59 05.wav"
+          Duplicate="1" Volume="-9" SampleStartMod="1500" MonolithOffset="167141376"
+          MonolithLength="483328" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="65" HiVel="90" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down C# 49 01.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="167624704"
+          MonolithLength="495616" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="65" HiVel="90" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down C# 49 02.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="168120320"
+          MonolithLength="471040" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="65" HiVel="90" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down C# 49 03.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="168591360"
+          MonolithLength="520192" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="65" HiVel="90" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down C# 49 04.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="169111552"
+          MonolithLength="487424" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="65" HiVel="90" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down C# 49 05.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="169598976"
+          MonolithLength="454656" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="62" LoVel="65" HiVel="90" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down C# 61 01.wav"
+          Duplicate="1" Volume="-9" SampleStartMod="1500" MonolithOffset="170053632"
+          MonolithLength="434176" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="62" LoVel="65" HiVel="90" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down C# 61 02.wav"
+          Duplicate="1" Volume="-9" SampleStartMod="1500" MonolithOffset="170487808"
+          MonolithLength="430080" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="62" LoVel="65" HiVel="90" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down C# 61 03.wav"
+          Duplicate="1" Volume="-9" SampleStartMod="1500" MonolithOffset="170917888"
+          MonolithLength="442368" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="62" LoVel="65" HiVel="90" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down C# 61 04.wav"
+          Duplicate="1" Volume="-9" SampleStartMod="1500" MonolithOffset="171360256"
+          MonolithLength="442368" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="62" LoVel="65" HiVel="90" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down C# 61 05.wav"
+          Duplicate="1" Volume="-9" SampleStartMod="1500" MonolithOffset="171802624"
+          MonolithLength="409600" SampleRate="44100"/>
+  <sample Root="38" LoKey="36" HiKey="39" LoVel="65" HiVel="90" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down D 38 01.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="172212224"
+          MonolithLength="872448" SampleRate="44100"/>
+  <sample Root="38" LoKey="36" HiKey="39" LoVel="65" HiVel="90" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down D 38 02.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="173084672"
+          MonolithLength="794624" SampleRate="44100"/>
+  <sample Root="38" LoKey="36" HiKey="39" LoVel="65" HiVel="90" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down D 38 03.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="173879296"
+          MonolithLength="786432" SampleRate="44100"/>
+  <sample Root="38" LoKey="36" HiKey="39" LoVel="65" HiVel="90" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down D 38 04.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="174665728"
+          MonolithLength="864256" SampleRate="44100"/>
+  <sample Root="38" LoKey="36" HiKey="39" LoVel="65" HiVel="90" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down D 38 05.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="175529984"
+          MonolithLength="815104" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="51" LoVel="65" HiVel="90" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down D 50 01.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="176345088"
+          MonolithLength="647168" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="51" LoVel="65" HiVel="90" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down D 50 02.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="176992256"
+          MonolithLength="688128" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="51" LoVel="65" HiVel="90" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down D 50 03.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="177680384"
+          MonolithLength="634880" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="51" LoVel="65" HiVel="90" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down D 50 04.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="178315264"
+          MonolithLength="565248" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="51" LoVel="65" HiVel="90" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down D 50 05.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="178880512"
+          MonolithLength="630784" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="65" HiVel="90" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down D# 63 01.wav"
+          Duplicate="1" Volume="-9" SampleStartMod="1500" MonolithOffset="179511296"
+          MonolithLength="540672" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="65" HiVel="90" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down D# 63 02.wav"
+          Duplicate="1" Volume="-9" SampleStartMod="1500" MonolithOffset="180051968"
+          MonolithLength="540672" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="65" HiVel="90" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down D# 63 03.wav"
+          Duplicate="1" Volume="-9" SampleStartMod="1500" MonolithOffset="180592640"
+          MonolithLength="507904" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="65" HiVel="90" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down D# 63 04.wav"
+          Duplicate="1" Volume="-9" SampleStartMod="1500" MonolithOffset="181100544"
+          MonolithLength="512000" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="65" HiVel="90" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down D# 63 05.wav"
+          Duplicate="1" Volume="-9" SampleStartMod="1500" MonolithOffset="181612544"
+          MonolithLength="520192" SampleRate="44100"/>
+  <sample Root="40" LoKey="40" HiKey="41" LoVel="65" HiVel="90" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down E 40 01.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="182132736"
+          MonolithLength="532480" SampleRate="44100"/>
+  <sample Root="40" LoKey="40" HiKey="41" LoVel="65" HiVel="90" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down E 40 02.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="182665216"
+          MonolithLength="589824" SampleRate="44100"/>
+  <sample Root="40" LoKey="40" HiKey="41" LoVel="65" HiVel="90" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down E 40 03.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="183255040"
+          MonolithLength="536576" SampleRate="44100"/>
+  <sample Root="40" LoKey="40" HiKey="41" LoVel="65" HiVel="90" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down E 40 04.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="183791616"
+          MonolithLength="548864" SampleRate="44100"/>
+  <sample Root="40" LoKey="40" HiKey="41" LoVel="65" HiVel="90" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down E 40 05.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="184340480"
+          MonolithLength="516096" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="65" HiVel="90" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down E 52 01.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="184856576"
+          MonolithLength="491520" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="65" HiVel="90" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down E 52 02.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="185348096"
+          MonolithLength="446464" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="65" HiVel="90" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down E 52 03.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="185794560"
+          MonolithLength="503808" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="65" HiVel="90" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down E 52 04.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="186298368"
+          MonolithLength="466944" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="65" HiVel="90" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down E 52 05.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="186765312"
+          MonolithLength="495616" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="65" LoVel="65" HiVel="90" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down E 64 01.wav"
+          Duplicate="1" Volume="-9" SampleStartMod="1500" MonolithOffset="187260928"
+          MonolithLength="446464" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="65" LoVel="65" HiVel="90" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down E 64 02.wav"
+          Duplicate="1" Volume="-9" SampleStartMod="1500" MonolithOffset="187707392"
+          MonolithLength="397312" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="65" LoVel="65" HiVel="90" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down E 64 03.wav"
+          Duplicate="1" Volume="-9" SampleStartMod="1500" MonolithOffset="188104704"
+          MonolithLength="421888" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="65" LoVel="65" HiVel="90" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down E 64 04.wav"
+          Duplicate="1" Volume="-9" SampleStartMod="1500" MonolithOffset="188526592"
+          MonolithLength="405504" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="65" LoVel="65" HiVel="90" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down E 64 05.wav"
+          Duplicate="1" Volume="-9" SampleStartMod="1500" MonolithOffset="188932096"
+          MonolithLength="405504" SampleRate="44100"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="65" HiVel="90" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down F# 42 01.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="189337600"
+          MonolithLength="507904" SampleRate="44100"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="65" HiVel="90" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down F# 42 02.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="189845504"
+          MonolithLength="487424" SampleRate="44100"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="65" HiVel="90" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down F# 42 03.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="190332928"
+          MonolithLength="466944" SampleRate="44100"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="65" HiVel="90" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down F# 42 04.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="190799872"
+          MonolithLength="421888" SampleRate="44100"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="65" HiVel="90" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down F# 42 05.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="191221760"
+          MonolithLength="442368" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="65" HiVel="90" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down F# 54 01.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="191664128"
+          MonolithLength="344064" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="65" HiVel="90" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down F# 54 02.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="192008192"
+          MonolithLength="331776" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="65" HiVel="90" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down F# 54 03.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="192339968"
+          MonolithLength="323584" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="65" HiVel="90" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down F# 54 04.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="192663552"
+          MonolithLength="323584" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="65" HiVel="90" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down F# 54 05.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="192987136"
+          MonolithLength="356352" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="67" LoVel="65" HiVel="90" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down F# 66 01.wav"
+          Duplicate="1" Volume="-9" SampleStartMod="1500" MonolithOffset="193343488"
+          MonolithLength="364544" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="67" LoVel="65" HiVel="90" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down F# 66 02.wav"
+          Duplicate="1" Volume="-9" SampleStartMod="1500" MonolithOffset="193708032"
+          MonolithLength="389120" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="67" LoVel="65" HiVel="90" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down F# 66 03.wav"
+          Duplicate="1" Volume="-9" SampleStartMod="1500" MonolithOffset="194097152"
+          MonolithLength="339968" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="67" LoVel="65" HiVel="90" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down F# 66 04.wav"
+          Duplicate="1" Volume="-9" SampleStartMod="1500" MonolithOffset="194437120"
+          MonolithLength="339968" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="67" LoVel="65" HiVel="90" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down F# 66 05.wav"
+          Duplicate="1" Volume="-9" SampleStartMod="1500" MonolithOffset="194777088"
+          MonolithLength="352256" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="56" LoVel="65" HiVel="90" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down G 55 01.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="195129344"
+          MonolithLength="536576" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="56" LoVel="65" HiVel="90" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down G 55 02.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="195665920"
+          MonolithLength="450560" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="56" LoVel="65" HiVel="90" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down G 55 03.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="196116480"
+          MonolithLength="552960" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="56" LoVel="65" HiVel="90" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down G 55 04.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="196669440"
+          MonolithLength="528384" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="56" LoVel="65" HiVel="90" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down G 55 05.wav"
+          Duplicate="1" Volume="-6" SampleStartMod="1500" MonolithOffset="197197824"
+          MonolithLength="503808" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="72" LoVel="65" HiVel="90" RRGroup="1"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down G# 68 01.wav"
+          Duplicate="1" Volume="-9" SampleStartMod="1500" MonolithOffset="197701632"
+          MonolithLength="311296" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="72" LoVel="65" HiVel="90" RRGroup="2"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down G# 68 02.wav"
+          Duplicate="1" Volume="-9" SampleStartMod="1500" MonolithOffset="198012928"
+          MonolithLength="274432" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="72" LoVel="65" HiVel="90" RRGroup="3"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down G# 68 03.wav"
+          Duplicate="1" Volume="-9" SampleStartMod="1500" MonolithOffset="198287360"
+          MonolithLength="258048" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="72" LoVel="65" HiVel="90" RRGroup="4"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down G# 68 04.wav"
+          Duplicate="1" Volume="-9" SampleStartMod="1500" MonolithOffset="198545408"
+          MonolithLength="270336" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="72" LoVel="65" HiVel="90" RRGroup="5"
+          FileName="E:\Reaper\Sample Instruments\AG-21\Raw Samples\Sustain\Raw\Medium\Down\Minus\Medium Sustain Down G# 68 05.wav"
+          Duplicate="1" Volume="-9" SampleStartMod="1500" MonolithOffset="198815744"
+          MonolithLength="241664" SampleRate="44100"/>
+</samplemap>
