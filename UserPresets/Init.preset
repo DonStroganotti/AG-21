@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="1.0.0">
+  <Content Processor="Interface">
+    <Control type="ScriptButton" id="DisplayPerformanceStatsBtn" value="0"/>
+    <Control type="ScriptSlider" id="Saturation" value="0"/>
+    <Control type="ScriptSlider" id="SampleStartSlider" value="0.4"/>
+    <Control type="ScriptSlider" id="ReleaseSlider" value="200"/>
+    <Control type="ScriptButton" id="DblTrackBtn" value="1"/>
+    <Control type="ScriptSlider" id="DoubleTrackWidth" value="35"/>
+    <Control type="ScriptComboBox" id="CurveSelect" value="1"/>
+    <Control type="ScriptTable" id="VelocityCurve" value="0" data="24...............vO...f+....9C...sO"/>
+    <Control type="ScriptTable" id="LowpassCurve" value="0" data="24...............vO...f+....9C..PrO"/>
+  </Content>
+  <MidiAutomation/>
+  <MPEData Enabled="0"/>
+</Preset>
